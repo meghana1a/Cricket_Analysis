@@ -1,2 +1,3 @@
 # Cricket_Analysis
-IPL Cricket data was analyzed exploring all the features. Pick an appropriate Machine Learning Model to predict the scores and justify. Visualize the IPL Cricket  data in various graphical representation formats using PowerBI/Tableau and provide a detailed analysis.
+IPL Cricket data was analyzed exploring all the features. An appropriate Machine Learning Model was picked to predict the scores.
+The data is visualized in various graphical representation formats using PowerBI/Tableau with a detailed analysis.
